@@ -1,0 +1,26 @@
+Algoritmos para Grafos não direcionados (prioridade)
+BFS
+DFS
+AGM - Kruskal
+AGM - Prim
+
+Algoritmos para Grafos direcionados
+BFS
+DFS
+CM - Dijkstra
+CM - Belman-Ford
+
+Desafios:
+Printar as setas (plano B: fazer com círculo na extremidade)
+Posicionar os vértices (deixar como informação no arquivo)
+
+
+Manual
+Sobre as telas...
+Criar uma tela FXML para cada algoritmo (para exibição diferenciada dos atributos dos algoritmos)
+As telas irão seguir o padrão do excel dos exercícios
+A lista de adjacência exibida na tela será colorida juntamente com a coloração dos grafos
+Pensar sobre a exibição da pilha de chamadas recursivas
+Na exibição na tela da entrada de parâmetros você deverá fazer algo dinâmico (DFS e BFS terão apenas origem; Caminho mínimo terá origem e destino; Árvore Geradora Mínima não terá parâmetros)
+Na exibição da saída (resposta) pensar em DFS e BFS: mostrando vértices atingíveis à partir da origem x, Árvore Geradora Mínima e Caminho Mínimo: custo)
+Na implementação da execução simples preencher a tabela com as seguintes informações: Algoritmo, Grafo, Vértices, Arestas, Tempo e Custo (não fazer memória). Lembrar de colorir o grafo com a resposta final.

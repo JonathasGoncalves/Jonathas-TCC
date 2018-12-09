@@ -1,0 +1,13 @@
+ARESTAS:
+Antes de ser visitada: Branco
+Quando vai visitar: Verde escuro;
+Quando foi visitada: verde claro;
+Quando ele esta ligada a um vertice pronto: cinza claro;
+
+VÉRTICES:
+Antes de ser visitado: Branco
+Quando é visitado pela primeira vez: Verde escuro;
+Quando passa a execução para outro vértice: Verde claro;
+Quando esta pronto: Cinza claro;
+
+

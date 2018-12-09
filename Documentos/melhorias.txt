@@ -1,0 +1,2 @@
+Devem ser tratados no projeto:
+* Não preencher os parâmetros na tela inicial.

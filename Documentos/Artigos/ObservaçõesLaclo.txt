@@ -1,0 +1,6 @@
+* Explicar melhor o conteúdo da matéria analisada(Teoria dos Grafos)
+* Explicar melhor a os elementos do sistema (de forma mais didática)
+* Pensar em um novo objetivo. Ao invés de diminuir o grau de abstração, alcançar o grau de abstração necessário.
+* Reforçar a justificativa. Novas formas de apresentar o conteúdo são possiveis através das mídias digitais.
+* Termo Objeto de Aprendizagem só aparece no título.
+* Reforçar a conclusão. Trazer alguma discussão ou reflexão sobre a porposta de desenvolvimento.
